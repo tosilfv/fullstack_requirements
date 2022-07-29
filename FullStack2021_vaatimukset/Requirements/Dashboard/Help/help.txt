@@ -1,0 +1,9 @@
+Done features
+- Help text for each Tab on Dashboard and Welcome Page
+
+
+Essential features
+- Hover-over Tip to every Site Tab
+
+
+Extra features

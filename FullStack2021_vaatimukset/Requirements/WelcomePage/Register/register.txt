@@ -1,0 +1,61 @@
+Done features
+- register page is found and is of right type
+- user creation succeeds with fresh username and minimal input
+- user creation succeeds with fresh username and maximal input
+- username creation fails if too short
+- username creation fails if too long
+- username creation fails if empty
+- username creation fails if space character at start
+- username creation fails if space character inside
+- username creation fails if space character at end
+- username creation fails if illegal character at start
+- username creation fails if illegal character inside
+- username creation fails if illegal character at end
+- username creation fails if scand character at start
+- username creation fails if scand character inside
+- username creation fails if scand character at end
+- username creation fails if already taken
+- password creation fails if too short
+- password creation fails if too long
+- password creation fails if empty
+- password creation fails if space character at start
+- password creation fails if space character inside
+- password creation fails if space character at end
+- password creation fails if scand character at start
+- password creation fails if scand character inside
+- password creation fails if scand character at end
+- password creation fails if no lowercase character
+- password creation fails if no uppercase character
+- password creation fails if no numeric character
+- password creation fails if no special character
+- wrong address while in register page redirects to register page
+- visit in external page after in register page, then coming back redirects to register page
+- page refresh after in register page redirects to register page
+- while in register page, url is correct
+- registering fails if confirmation empty
+- registering fails if confirmation does not match password
+- registering fails if terms are not accepted
+- register button is disabled if username has error message
+- register button is disabled if password has error message
+- register button is disabled if confirmation has error message
+- register button is disabled if username field is empty
+- register button is disabled if password field is empty
+- register button is disabled if confirmation field is empty
+- register button is disabled if terms is not checked
+- register button is not disabled if form inputs are ok
+- while in register page with errors, no errors anymore after return from visit to login page
+- terms text is not shown before clicked
+- terms text is shown after clicked
+- resizing browser shows hamburger menu
+- not resizing browser does not show hamburger menu
+- registering with username that is in use is not possible and shows error message
+- registering with username that is in use redirects to the register page after 7000 ms
+- registering with username that is in use and after error message, terms button is not checked, register button is disabled and register button cloud icon is visible
+- registering with fresh username shows spinner in register button, form input fields are disabled, login and register tabs are not visible and redirects to login page after 7000 ms
+
+ 
+Essential features
+
+
+
+Extra features

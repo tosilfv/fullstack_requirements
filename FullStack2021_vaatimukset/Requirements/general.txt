@@ -1,0 +1,16 @@
+Done features
+- Appropriate tests
+- Page load only happens once during the first visit to the page
+- Fonts and font sizes are consistent
+- Disclaimer for site usage
+- Implement most of the topics from the course material
+
+
+Essential features
+
+
+
+Extra features
+- Date showing on every page in the footer component
+- Option to change site theme between light and dark
+- Option to change site language between Finnish and English

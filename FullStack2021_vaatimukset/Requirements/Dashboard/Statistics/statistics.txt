@@ -1,0 +1,28 @@
+Done features
+- statistics can be viewed
+- Removes graphs of workouts that have been removed
+- If same workout is performed more then once a day, the breakdown is shown when graph is hovered over or clicked
+- Statistics show average to all inputs
+- Y-axis shows repetitions, X-axis the date of completion
+
+
+Essential features
+- Graph shows spikes or mountains because of the rest days
+- Graph shows legend of workout name and repetition and set counts
+- Graph moves up and down
+- Graph shows the sum for all the workout reps of the current date
+- Graph can be zoomed in or out to show repetitions from all history
+- Draws graph of each workout that is active or not-active
+- Each graph has own legend that can be toggled to show or hide
+- Rest days make the graph go to zero
+- By clicking one graph, that graph is enhanced over the other graphs
+- If there are many graphs, every graph is of different color
+- Option to filter graphs
+- Set and workout amounts are show in rows as a list in the expanded legend
+- Statistics can be downloaded as one *.csv or *.txt file
+- Statistics show workout bpm's
+- By clicking, the legend is expanded
+- If legend text is long, three dots are shown
+
+
+Extra features

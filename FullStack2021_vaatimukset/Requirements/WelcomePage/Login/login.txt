@@ -1,0 +1,26 @@
+Done features
+- login succeeds if valid credentials
+- login returns token if valid credentials
+- login fails if no valid username
+- login fails if no valid password
+- login page shows correct message with valid form submission
+- login fails if username empty
+- login fails if username wrong
+- login fails if password empty
+- login fails if password wrong
+- login button is disabled if username has error message
+- login button is disabled if password has error message
+- login button is disabled if username field is empty
+- login button is disabled if password field is empty
+- login button is not disabled if form inputs are ok
+- while in login page with errors, no errors anymore after return from visit to register page
+- login with incorrect credentials redirects to the login page after 4000 ms
+- login with incorrect credentials and after error message, login button is disabled and login button signin icon is visible
+- login with correct username and password shows spinner in login button, form input fields are disabled, login and register tabs are not visible and redirects to dashboard after 5000 ms
+
+
+Essential features
+
+
+
+Extra features

@@ -1,0 +1,75 @@
+Done features
+- when authorized user is logged in, a workout can be created, updated and deleted
+- Workout can be removed
+- Option to add note to each workout
+- Option to remove hover-over tips
+- Option to save e.g. used weights or other relevant information to a workout
+- Input fields cannot accept wrong input types
+
+
+Essential features
+- Workout can be set from 1 minute to 5 hours
+- Workout can be set as completed
+- Workout can be active for only one day
+- Workout is activated with a ACTIVATE button
+- Workout folders contain lists of workouts of the selected type
+- Workout tab shows list of favorite workouts and a heart symbol
+- Workouts can be toggled as active or not active
+- Workouts can be added to be activated in the future
+- Workouts can be arranged to folders of each workout type
+- Top, average and bottom scores are shown to every workout type
+- Completed and uncompleted workout lists can be filtered by date or by name
+- When saving a workout, the workout goals are set
+- When workout is completed or not completed but finished, the reached repetitions are saved per user input
+- Each workout remembers the bpm that was last set in the metronome
+- Many weekly or daily workouts can be active simultaneously
+- Active and not active workouts are show as their own lists
+- One day workout can be set to be active always
+- Active workout shows ACTIVE message above
+- Show current statistics of active workout when the workout tab is selected
+- Ready-made templates to workouts e.g. for guitar playing or exercising
+- Setting the workout as completed does not require use of timer
+- Last uncomplete workout is reminded at workout tab
+- Next workout to be completed is on top and active on workout tab
+- All workouts are remembered except the removed workouts
+- Completed and uncompleted workouts can be added to workout history
+- Saved workouts show all necessary information in the saved workouts list
+- By clicking a saved workout, the page of that workout is opened
+- Active workouts can be marked completed in any order
+- Not completed workouts will show in different color
+- Tags can be added to each workout
+- Saved workouts can be searched with tag names
+- The set workout times can be altered on the fly
+- Not completed workouts are quit if browser is closed or at SignOut
+- Option to embed Youtube videos to help the workout
+- Option to arrange a weekly workout calendar
+- Option to add many weekly workouts
+- Option to count aloud before first or last seconds of the timer
+- Option to use a Metronome
+- Option to add a random video to be embedded from Youtube to a workout
+- Option to combine short workouts to one long workout
+- Option to pause and reset the Timer
+- Option to add the same workout multiple times
+- Option to duplicate a workout
+- If date changes during workout, workout is saved to the previous day
+- If there are no workouts found, then text NO WORKOUTS FOUND - ADD WORKOUT is displayed
+- If set workout goals are not met, the reached goals will be saved based on user input
+- If workout is not completed, the workout is not saved as a completed workout
+- If workout timer is started and other site tab is clicked, the timer goes to pause
+- If workout timer is started and other site tab is clicked and user returns to workout tab, workout asks 'do you want to continue or quit?'
+- Timer play button cannot be too large
+- Timer chime can be altered
+- Timer flashes the browser screen when finished
+- Timer plays chime when finished
+- Show a timer that can be activated between 1 to 20 seconds
+- Screen flash of finished timer can be toggled on or off
+- Negative timer time cannot be added
+- Note can be added while workout timer is running
+- Metronome beats per minute are between 10 and 300
+- Button ADD WORKOUT exists
+- Calendar operates by the Gregorian calendar
+- Utilize drag-drop functionality whenever possible
+- Hover-over tips everywhere
+
+
+Extra features

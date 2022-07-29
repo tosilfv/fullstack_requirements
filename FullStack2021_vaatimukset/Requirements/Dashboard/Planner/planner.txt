@@ -1,0 +1,13 @@
+Done features
+- when authorized user is logged in, a plan can be created and deleted
+
+
+Essential features
+- Option to embed Youtube videos to each note
+- Shows all notes that are added to workouts
+- Option to add notes that are not linked to any workout
+- Separate notes have their own section
+
+
+Extra features
+- Add a hover-over tip that you can add e.g. food recipes to notes

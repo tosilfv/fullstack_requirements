@@ -1,0 +1,10 @@
+Done features
+- Stopwatch
+- Countdown timer
+- Metronome
+
+
+Essential features
+
+
+Extra features

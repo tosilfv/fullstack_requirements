@@ -1,0 +1,16 @@
+Done features
+- when authorized user is logged in, tooltips visibility can be changed
+- when authorized user is logged in, user password can be changed
+- when logged in and authenticated, user delete succeeds with fresh username
+- delete profile redirects to login page and displays delete profile message without grow spinners
+- logout redirects to login page and displays logout message without grow spinners
+
+
+Essential features
+
+
+Extra features
+- New password confirmation to e-mail, where password will not be sent as plain text
+- Activation of the user account thorough e-mail confirmation link
+- Option to change e-mail address
+- Facebook SignIn

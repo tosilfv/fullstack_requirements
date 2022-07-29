@@ -1,0 +1,18 @@
+Done features
+- front page can be opened
+- login page can be opened
+- register page can be opened
+- wrong root address redirects to login page
+- wrong address after /welcome/ redirects to login page
+- wrong address while in register page redirects to register page
+- visit in external page after in register page, then coming back redirects to register page
+- page refresh after in register page redirects to register page
+- while in register page, url is correct
+
+
+Essential features
+
+
+
+Extra features
+- Site Logo

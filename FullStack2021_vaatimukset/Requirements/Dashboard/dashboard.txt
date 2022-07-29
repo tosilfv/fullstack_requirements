@@ -1,0 +1,17 @@
+Done features
+- Title: WORKOUT HELPER
+- As default the tab WORKOUT is displayed
+- Site Tabs:
+	WORKOUT
+	TIMERS
+	STATISTICS
+	PLANNER
+	PROFILE
+	HELP
+
+
+Essential features
+
+
+
+Extra features
